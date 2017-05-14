@@ -22,7 +22,7 @@ public class DecodeRunner {
     } // END DEV LOOP
   }
 
-  //---createWordLIst----------------------------------------------------
+  //---createWordList----------------------------------------------------
 
   // returns word list
   public static ArrayList<String> createWordList(String filePath) {
