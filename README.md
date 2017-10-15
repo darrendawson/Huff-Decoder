@@ -1,5 +1,5 @@
-# Huff-Decoder
-Decompresses text from Huff Encoder
+# Text Decoder
+Decompresses text from Text_Encoder. Uses a modified version of Huffman Encoding.
 
 run: javac *.java && java DecodeRunner
 
